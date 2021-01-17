@@ -1,0 +1,16 @@
+{
+  "data" : [
+    {
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "tenor.gif",
+      "idiom" : "iphone",
+      "universal-type-identifier" : "gif"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
